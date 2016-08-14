@@ -3,3 +3,11 @@ https://www.npmjs.com/package/lite-server - A lite server for Node that refreshe
 https://www.browsersync.io/ - What lite-server wraps around to provide syncing of code with browser
 
 https://getmdl.io/ - Material Design Light
+
+
+Images I Used
+http://cdn.hiconsumption.com/wp-content/uploads/2016/03/Ducati-Ice-Monster-By-Paolo-Tessio-0.jpg
+
+https://developers.google.com/maps/documentation/javascript/examples/map-simple
+
+//AIzaSyDtVh2aQt3MIgEdFce3yE7-wSmOY2hWDy8
