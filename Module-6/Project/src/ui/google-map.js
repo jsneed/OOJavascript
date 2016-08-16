@@ -33,6 +33,13 @@ export class GoogleMap extends BaseElement {
     }
 
     getElementString() {
-        return `<div id="map" style="width: 800px; height 100%"></div>`;
+        return `<style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      
+    </style><div id="map" style="width: 800px; height: 100%;"></div>`;
     }
 }
